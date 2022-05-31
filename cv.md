@@ -23,3 +23,35 @@ I have a B2 level of English, communication skills, ability to negotiate, knowle
 
 I love to program. I would like to gain knowledge of Javascript front-end developer.\
 __I love writing programming code and I want to be perfect in Javascript and Frontend stack at all.__
+
+### Hard skills
+
+* HTML, CSS,
+* basic OOP,
+* JavaScript, node.JS,
+* Git, Photoshop, Figma
+* VS Code, WebStorm, IntelliJ IDEA, Eclipse, Sublime.
+
+### Soft skills
+
+* Purposeful
+* Team leader
+* Very communicative
+* Very creative
+
+### Code sample
+
+```JavaScript
+function simpleMultiplication(number) {
+    // your code........
+  return number % 2 ?  number * 9 : number * 8;
+}
+```
+
+********
+
+### My projects
+
+![My Angular project](/images/board.png)
+
+* Angular final group project ["Project Management"](https://project-management-app-group-one.netlify.app/welcome)
