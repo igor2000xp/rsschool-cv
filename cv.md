@@ -6,7 +6,7 @@
 
 ### Belarus, Minsk
 
-********
+*********
 
 ### Contacts
 
@@ -48,7 +48,7 @@ function simpleMultiplication(number) {
 }
 ```
 
-********
+*********
 
 ### My projects
 
@@ -56,19 +56,19 @@ function simpleMultiplication(number) {
 
 * Angular final group project ["Project Management"](https://project-management-app-group-one.netlify.app/welcome)
 
-********
+*********
 
 ![My RS-Lang project](/images/rs-lang.png)
 
 * React final group Stage 2 project  ["RS-Lang dictionary"](https://github.com/igor2000xp/rsschool-cv/tree/gh-pages)
 
-********
+*********
 
 ![My Museum project](/images/museum.png)
 
 * Museum Stage 1 project  ["Museum project"](https://rolling-scopes-school.github.io/igor2000xp-JSFE2021Q3/museum-dom/)
 
-********
+*********
 
 ### My experience
 
@@ -85,7 +85,7 @@ ___My responsibilities included:___
 * product promotion to the retail market, interaction with retail and pharmacy chains;
 * participation in tenders, preparation of the necessary documents, reporting.
 
-********
+*********
 
 #### "Suffiks" Ltd, Director / Chief Accountant
 
@@ -100,7 +100,7 @@ ___My responsibilities included:___
 * creation, promotion, and management of the enterprise website;
 * control of primary accounting documentation, reporting.
 
-********
+*********
 
 #### JSC "Technobank", Executive Director, <https://tb.by>
 
@@ -114,7 +114,7 @@ ___My responsibilities included:___
 * advertising and promotion of banking, projecting, and building products;
 * analysis of the effectiveness of the assigned departments, reporting.
 
-********
+*********
 
 #### Representative office of "Nellant Energy SA", Switzerland, Head of Representative Office
 
@@ -127,7 +127,7 @@ ___My responsibilities included:___
 * participation in negotiations with partners and contractors, the conclusion of contracts;
 * control of finance, accounting, preparation of reports, including in English according to international standards.
 
-********
+*********
 
 ### Education
 
@@ -154,7 +154,7 @@ ___My responsibilities included:___
 
 ![YouTube video](/images/video-screen.png)
 
-********
+*********
 
 ### Languages
 
