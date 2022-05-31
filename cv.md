@@ -159,4 +159,4 @@ ___My responsibilities included:___
 ### Languages
 
 * English - B2 - Upper-Intermediate.
->>>>>>> a2c9e06... refact: chsnge files README.md and cv.md
+  ![Certificate](/images/99932032f710fe345fe82623e7aca818.jpg)
