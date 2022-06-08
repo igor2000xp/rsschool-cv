@@ -26,10 +26,11 @@ __I love writing programming code and I want to be perfect in Javascript and Fro
 
 ### Hard skills
 
-* HTML, CSS,
-* basic OOP,
+* FrontEnd JavaScript, TypeScript, Angular, React,
+* node.JS, HTML, CSS, basic OOP,
+* Git, Webpack,
 * JavaScript, node.JS,
-* Git, Photoshop, Figma
+* Figma, Photoshop,
 * VS Code, WebStorm, IntelliJ IDEA, Eclipse, Sublime.
 
 ### Soft skills
