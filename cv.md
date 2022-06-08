@@ -72,7 +72,7 @@ function simpleMultiplication(number) {
 
 ### My experience
 
-#### UE “PP IBC NAS Belarus”, Head of Marketing Department
+#### Unitary Enterprise "Pilot Production of the Institute of Bioorganic Chemistry National Academy of Sciences of Belarus", Head of Marketing Department
 
 ##### August 2019 – currently
 
