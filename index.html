@@ -113,13 +113,13 @@
           <div class="section__content">
 					<pre>
 								<code data-language="javascript">
-
-document.write("You came from <b>"+document.referrer+"</b><BR>");
-document.write("Your browser is: <b>"+navigator.appName+"</b><BR>");
-document.write("Codename core your browser: <b>"+navigator.appCodeName+"</b><BR>");
-document.write("Version: <b>"+navigator.appVersion+"</b><BR>")
-document.write("User-agent header:<BR>");
-document.write("<b>"+navigator.userAgent+"</b><BR>");
+function repeatStr (n, s) {
+  let a = '';
+  for (let i = 0; i < n; i += 1) {
+    a += s;
+  }
+  return a;
+}
 								</code>
 						  </pre>
 

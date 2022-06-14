@@ -51,7 +51,7 @@ body {
 
 .entire-field {
   width: 100%;
-  background-color: white;
+  background-color: #fbf2ff;
 }
 
 .wrapper {
@@ -61,7 +61,7 @@ body {
   display: flex;
   flex-direction: column;
   max-width: 90vw;
-  background:#ebf8f0;
+  background: #fffef6;
   box-shadow: 10px 5px 5px #1f421b, -3px 0 4px #3e6b19;
   border-radius: 3vh;
 }
